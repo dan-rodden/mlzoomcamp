@@ -51,8 +51,15 @@ healthy-cell-classifier/
 ├── README.md           # Project documentation
 └── *.bin               # Saved XGBoost model
 
+## Cloud Deployment Demo
+The service is deployed to Render. You can test it using the following command:
 
+```bash
+curl -X POST [https://healthy-platelet-classifier.onrender.com/predict](https://healthy-platelet-classifier.onrender.com/predict) \
+  -H "Content-Type: application/json" \
+  -d '{"url": "[https://raw.githubusercontent.com/dan-rodden/mlzoomcamp/main/healthy-platlet-classifier/test_image.jpg](https://raw.githubusercontent.com/dan-rodden/mlzoomcamp/main/healthy-platlet-classifier/test_image.jpg)"}'
 
+https://github.com/user-attachments/assets/a97cbe92-ca28-4fd0-8dfa-12ad12bd115e
 
 
 
