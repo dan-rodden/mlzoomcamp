@@ -60,8 +60,9 @@ curl -X POST [https://healthy-platelet-classifier.onrender.com/predict](https://
   -d '{"url": "[https://raw.githubusercontent.com/dan-rodden/mlzoomcamp/main/healthy-platlet-classifier/test_image.jpg](https://raw.githubusercontent.com/dan-rodden/mlzoomcamp/main/healthy-platlet-classifier/test_image.jpg)"}'
 ```
 
-!https://github.com/user-attachments/assets/a97cbe92-ca28-4fd0-8dfa-12ad12bd115e
 
+
+<img width="1085" height="636" alt="live_demo_screenshot" src="https://github.com/user-attachments/assets/58b0bf1e-4c56-4472-a6a5-8c1878b8325a" />
 
 
 
