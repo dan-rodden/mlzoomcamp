@@ -61,8 +61,7 @@ curl -X POST [https://healthy-platelet-classifier.onrender.com/predict](https://
 ```
 
 
-
-<img width="1085" height="636" alt="live_demo_screenshot" src="https://github.com/user-attachments/assets/58b0bf1e-4c56-4472-a6a5-8c1878b8325a" />
+<img width="860" height="96" alt="Screenshot 2025-11-19 at 5 37 48 PM" src="https://github.com/user-attachments/assets/aa0e6706-fc3b-4b36-9f82-e8f105883fb6" />
 
 
 
