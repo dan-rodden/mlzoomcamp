@@ -50,7 +50,7 @@ healthy-cell-classifier/
 ├── train.py            # Script to train and save the model
 ├── README.md           # Project documentation
 └── *.bin               # Saved XGBoost model
-
+```
 ## Cloud Deployment Demo
 The service is deployed to Render. You can test it using the following command:
 
@@ -59,7 +59,6 @@ curl -X POST [https://healthy-platelet-classifier.onrender.com/predict](https://
   -H "Content-Type: application/json" \
   -d '{"url": "[https://raw.githubusercontent.com/dan-rodden/mlzoomcamp/main/healthy-platlet-classifier/test_image.jpg](https://raw.githubusercontent.com/dan-rodden/mlzoomcamp/main/healthy-platlet-classifier/test_image.jpg)"}'
 ```
-
 
 <img width="860" height="96" alt="Screenshot 2025-11-19 at 5 37 48 PM" src="https://github.com/user-attachments/assets/aa0e6706-fc3b-4b36-9f82-e8f105883fb6" />
 
